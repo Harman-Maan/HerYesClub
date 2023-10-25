@@ -15,3 +15,18 @@
 img {
   object-fit: cover;
 }
+
+.sign-up-link {
+  padding: 0.5rem 0.25rem;
+}
+
+.sign-up-link span {
+  border-radius: 0.5rem;
+  padding: 0.75rem;
+  color: #a06c54;
+}
+
+.sign-up-link span:hover {
+  background-color: #a06c54;
+  color: #fff !important;
+}
